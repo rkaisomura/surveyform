@@ -1,2 +1,3 @@
-# surveyform
-Course survey form created at course Responsive Web Design from freeCodeCamp
+# Survey Form
+HTML and CSS
+Course survey form created during the Responsive Web Design course from freeCodeCamp
